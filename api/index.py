@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 
 class GameInfo:
     def __init__(self):
-        self.TitleId: str = "1C44C
+        self.TitleId: str = "1C44C"
         self.SecretKey: str = "RSYXNOO3I1O16PHTWANPKYZ746MAUOIFEZN5WGUP5JOYDBXWIN"  
         self.ApiKey: str = "OC|1089772264230160|e40335aa53cb5adb4d1a93d2e3ea2315"  
 
@@ -77,7 +77,7 @@ def main():
             </head>
             <body style="font-family: 'Inter', sans-serif; background: linear-gradient(to bottom, #004d00, #00cc00); color: white; text-align: center; padding: 50px;">
                 <h1 style="color: #eedd82; font-size: 48px; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-                    Wsp ganie. This is a public backend!
+                    Wsp Broksie. This is a private backend!
                 </h1>
                 <p style="font-size: 18px;">LEXO TAG Backend Server Running Smoothly!</p>
                 <img src="https://cdn-project-files.picsart.com/project_files/0b92e9f9-3f73-4b25-8522-59f427388f53.webp" alt="if u see this text it dont work" style="max-width: 500px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); display: block; margin: 30px auto;">
@@ -201,11 +201,11 @@ def titledata():
         "BundleBoardSign": "<color=#ff4141>LEXO TAGZ</color>",
         "BundleKioskButton": "<color=#ff4141>LEXO TAGZ</color>",
         "BundleKioskSign": "<color=#ff4141>LEXO TAGZ</color>",
-        "BundleLargeSign": "<color=#ff4141LEXO TAGZ</color>",
-        "SeasonalStoreBoardSign": "<color=red>RATE THE GAME 5 STARS!</color>\n<color=blue>.GG/LEXOTAG</color>",
+        "BundleLargeSign": "<color=#ff4141>LEXO TAGZ</color>",
+        "SeasonalStoreBoardSign": "<color=red>RATE THE GAME 5 STARS!</color>\n<color=blue>.GG/lexo</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
-        "MOTD": "<color=#FFC0CB>WELCOME TO LEXO TAGZ!</color>\n\n<color=#0099c2>CURRENT UPDATE: XMAS24</color>\n<color=#cacfd2>BOOST THE DISCORD FOR ALL COSMETICS (NOT STAFF COS)</color>\n<color=#41ff80>DARKVR MADE THIS MOTD</color>\n<color=#6417ff>DEVELOPER(S) ARE: DARKVR</color>\n<color=#ac1a00>OWNERS ARE: DARKVR</color>\n\n<color=#91A3B0>DISCORD.GG/LEXOTAG</color>",
+        "MOTD": "<color=#FFC0CB>WELCOME TO LEXO TAGZ!</color>\n\n<color=#0099c2>CURRENT UPDATE: XMAS24</color>\n<color=#cacfd2>BOOST THE DISCORD FOR ALL COSMETICS (NOT STAFF COS)</color>\n<color=#41ff80>DARKVR MADE THIS MOTD</color>\n<color=#6417ff>DEVELOPER(S) ARE: DARKVR</color>\n<color=#ac1a00>OWNERS ARE: DARKVR AND LUXO</color>\n\n<color=#91A3B0>DISCORD.GG/LEXOTAG</color>",
         "TOBAlreadyOwnCompTxt": "DISCORD.GG/LEXOTAG",
         "TOBAlreadyOwnPurchaseBundle": "LEXO TAGZ",
         "TOBDefCompTxt": "DISCORD.GG/LEXOTAG",
