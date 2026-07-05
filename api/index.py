@@ -98,7 +98,7 @@ def cacheplayfabid():
 
 
 @app.route("/api/PlayFabAuthentication", methods=["POST","GET"])
-def skibidi():
+def playfabauthenticator():
     pluh = request.get_json()
     app_id = pluh.get('AppId')
     app_version = pluh.get('AppVersion')
